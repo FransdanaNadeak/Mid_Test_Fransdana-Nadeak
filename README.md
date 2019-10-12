@@ -8,7 +8,8 @@ Python Use Case yang digunakan untuk Mid-Test ada 3 Case yaitu:
 
 # Dataset Descrition
 --------------
-# Predict Apartment Price in Victoria Using Regression
+# 1. Predict Apartment Price in Victoria Using Regression
+
 ### Background : 
 The Dataset provides living area and conservation status.
 There are 218 observations and 16 variables.
@@ -22,7 +23,7 @@ area environment and apartment conservation status. Determine the best model to 
 redefine new conservation variable in 3 level, A = 1A, B = 2A, C = 2B and 3A.
 
 
-# ARIMA Using Annual Water Usage Dataset
+# 2. ARIMA Using Annual Water Usage Dataset
 Dataset : Annual Water Usage in Baltimore.
 
 You can download it here
@@ -38,7 +39,7 @@ Create a python script for the Use Case below, please upload the script after yo
 The Problem is to predict annual water usage.
 
 
-# Exploration Data Analysis Using Titanic Dataset
+# 3. Exploration Data Analysis Using Titanic Dataset
 You can download it here.
 https://drive.google.com/open?id=15IyT1ODuDKgZb8WN6iG64hFJRZWJTSAz
 # Background 
