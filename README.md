@@ -6,8 +6,8 @@ Python Use Case yang digunakan untuk Mid-Test ada 3 Case yaitu:
 2. ARIMA Using Annual Water Usage Dataset 
 3. Exploration Data Analysis Using Titanic Dataset
 
-# Dataset Descrition
---------------
+# Dataset Description
+
 # 1. Predict Apartment Price in Victoria Using Regression
 
 ### Background : 
